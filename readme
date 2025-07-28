@@ -1,13 +1,9 @@
 <h2>Projeto 3 - Lista de Exercícios Koru/Boticário</h2>
 
-##
-
-📝 Descrição do Projeto
+## 📝 Descrição do Projeto
 Este repositório contém uma coleção de exercícios práticos desenvolvidos como parte do programa de formação da Koru em parceria com o Grupo Boticário. Os exercícios abordam conceitos fundamentais de programação e lógica de desenvolvimento, com foco na preparação de profissionais para desafios do mundo real.
 
-##
-
-🎯 Objetivos
+## 🎯 Objetivos
 Consolidar conhecimentos em programação básica e avançada
 
 Desenvolver habilidades de resolução de problemas
@@ -16,9 +12,7 @@ Praticar boas práticas de codificação
 
 Preparar para desafios técnicos em processos seletivos
 
-##
-
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 Linguagens de programação variadas (JavaScript, Python, etc.)
 
 Estruturas de dados fundamentais
@@ -27,9 +21,7 @@ Algoritmos essenciais
 
 Princípios de clean code
 
-##
-
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 text
 projeto-3/
 │
@@ -42,9 +34,7 @@ projeto-3/
 ├── solucoes/              # Soluções propostas
 └── README.md              # Este arquivo
 
-##
-
-🚀 Como Utilizar
+## 🚀 Como Utilizar
 Clone o repositório:
 
 bash
@@ -55,9 +45,7 @@ Implemente sua solução seguindo as especificações de cada problema
 
 (Opcional) Compare com as soluções propostas após resolver
 
-##
-
-💡 Dicas para Aproveitar Melhor
+## 💡 Dicas para Aproveitar Melhor
 Tente resolver cada exercício por conta própria antes de consultar as soluções
 
 Experimente diferentes abordagens para o mesmo problema
@@ -66,9 +54,7 @@ Documente seu processo de pensamento
 
 Pratique regularmente para consolidar o aprendizado
 
-##
-
-🤝 Contribuição
+## 🤝 Contribuição
 Contribuições são bem-vindas! Siga estas etapas:
 
 Faça um fork do projeto
@@ -81,15 +67,12 @@ Push para a branch (git push origin feature/novo-exercicio)
 
 Abra um Pull Request
 
-##
-
-👨‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvido por
 
 Fernando Nunes
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-nunes-dev30/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernando-nunes-dev)
 
-##
 
-📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
